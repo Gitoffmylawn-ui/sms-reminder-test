@@ -1,0 +1,11 @@
+# CSV copies of the tables: 00_generate_data.R rebuilds them, and loans.duckdb holds the same data
+/data/
+
+# R session and editor files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# shinyapps.io deployment records (written by rsconnect::deployApp)
+rsconnect/
